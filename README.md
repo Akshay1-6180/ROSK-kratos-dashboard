@@ -5,7 +5,7 @@ The requirements to run the files
   <ul>
     <li>FLASK
      <li> ROS MELODIC
-      <li> GAZEBO (for later purposes)
+      <li> <a href="https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/#turtlebot3-simulation-using-fake-node">GAZEBO</a> (for later purposes)
   </ul>
  
 ## INSTALLATION
