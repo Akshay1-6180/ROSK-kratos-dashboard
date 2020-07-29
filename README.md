@@ -8,12 +8,12 @@ The requirements to run the files
       <li> GAZEBO (for later purposes)
   </ul>
  
-##INSTALLATION
+## INSTALLATION
 after installing ROS MELODIC go to catkin_ws/src and type 
-'''
+```
 catkin_create_pkg <package name> rospy std_msgs
 paste the contents of the src folder into the <package name>/src  and do catkin_make and source devel/setup.bash
 go to <package name>/src and do rosrun <package name> move_bot.py to test the turtlesim robot ,make sure the turtlesim is also running by initiatiing that in the terminal by rosrun turtlesim turtlesim_node,then go the http://127.0.0.1:5000/ to view the webpage
-'''  
+``` 
 
   
