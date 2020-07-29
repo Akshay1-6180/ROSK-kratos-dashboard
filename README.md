@@ -22,4 +22,8 @@ rosrun turtlesim turtlesim_node
 then go the http://127.0.0.1:5000/ to view the webpage
 ``` 
 
+The move_bot.py is for the turtlesim robot ,move_turtle is for the turtlebot3 robot and a gazebo robot should run first for it <br>
+the camera.py is for the face detection using opencv<br>
+the graph is written using javascript<br>
+
   
